@@ -1,0 +1,7 @@
+﻿  2-Floats.cpp
+U:\USB\PRIMERO\FCR\LAB 1-2\2-Floats\2-Floats\2-Floats.cpp(11,16): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+U:\USB\PRIMERO\FCR\LAB 1-2\2-Floats\2-Floats\2-Floats.cpp(12,16): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+U:\USB\PRIMERO\FCR\LAB 1-2\2-Floats\2-Floats\2-Floats.cpp(24,35): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+U:\USB\PRIMERO\FCR\LAB 1-2\2-Floats\2-Floats\2-Floats.cpp(33,17): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+U:\USB\PRIMERO\FCR\LAB 1-2\2-Floats\2-Floats\2-Floats.cpp(43,14): warning C4309: 'inicializando': truncamiento de valor constante
+  2-Floats.vcxproj -> U:\USB\PRIMERO\FCR\LAB 1-2\2-Floats\2-Floats\Debug\2-Floats.exe

@@ -1,0 +1,4 @@
+C:\Users\mikel\Documents\UNIVERSIDAD\2º cuatri\FCR\2-Floats\2-Floats\Debug\2-Floats.exe
+C:\Users\mikel\Documents\UNIVERSIDAD\2º cuatri\FCR\2-Floats\2-Floats\Debug\2-Floats.pdb
+U:\USB\PRIMERO\FCR\LAB 1-2\2-Floats\2-Floats\Debug\2-Floats.exe
+U:\USB\PRIMERO\FCR\LAB 1-2\2-Floats\2-Floats\Debug\2-Floats.pdb
