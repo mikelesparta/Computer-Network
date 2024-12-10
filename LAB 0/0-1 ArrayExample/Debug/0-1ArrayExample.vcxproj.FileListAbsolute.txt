@@ -1,0 +1,4 @@
+U:\USB\PRIMERO\FCR\0-1 ArrayExample - copia\0-1 ArrayExample\Debug\0-1ArrayExample.exe
+U:\USB\PRIMERO\FCR\0-1 ArrayExample - copia\0-1 ArrayExample\Debug\0-1ArrayExample.pdb
+U:\USB\PRIMERO\FCR\LAB 0\0-1 ArrayExample BUENO\0-1 ArrayExample\Debug\0-1ArrayExample.exe
+U:\USB\PRIMERO\FCR\LAB 0\0-1 ArrayExample BUENO\0-1 ArrayExample\Debug\0-1ArrayExample.pdb
